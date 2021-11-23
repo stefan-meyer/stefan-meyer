@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stefan-meyer
+- 👋 Hi, I’m Stefan (@stefan-meyer)
 - 👀 I’m interested in programming, creating/using software controlled IoT devices
 - 🌱 I’m currently learning ...
 <!--- 💞️ I’m looking to collaborate on ... -->
